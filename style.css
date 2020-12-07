@@ -120,11 +120,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-	background-image: url(C:\Users\lex14\Documents\Digital Innovation One\Recriando a Página Inicial do Instagram\botao-apple.png);
+	background-image: url(C:\recriando-pg-ini-instagram\botao-apple.png);
 }
 
 .app-download:nth-child(2) {
-	background-image: url(C:\Users\lex14\Documents\Digital Innovation One\Recriando a Página Inicial do Instagram\googleplay-botao);
+	background-image: url(C:\recriando-pg-ini-instagram\googleplay-botao.png);
 }
 
 @media (max-width: 1024px) {
